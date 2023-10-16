@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hey there! 👋
 
-<!--
-**jayesh1302/jayesh1302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Jayesh Kumar**, a passionate Software Engineer currently honing my skills at an MS in Computer Engineering. 🎓💼
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 I'm passionate about **building scalable software products**.
+- 🌱 I've been deep in the world of **low-latency, highly scalable software**.
+- 💡 During my Master's, I've been keen on T-shaping my skillset, exploring new tech and diving deeper into what I already know.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 I'm looking for...
+
+**Software Engineering** positions starting **May 2024**. 
+
+Also, I'm open for **Spring 2024** internship/co-op positions. Feel free to shoot opportunities my way!
+
+## 📫 Reach Out!
+
+Eager to chat or collaborate? Shoot me an email at [jayesh.kumar@nyu.edu](mailto:jayesh.kumar@nyu.edu).
+
+🌐 **Links**:
+- [LinkedIn](https://www.linkedin.com/in/jayesh1302/)
+- [Website](https://jayesh1302.github.io/)
+
+Thanks for dropping by! 🙌
