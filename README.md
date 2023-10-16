@@ -1,19 +1,18 @@
 # Hey there! 👋
 
-I'm **Jayesh Kumar**, a passionate Software Engineer currently honing my skills at an MS in Computer Engineering. 🎓💼
+I'm **Jayesh Kumar**, a passionate Software Engineer currently pursuing an MS in Computer Engineering at New York University. 🎓💼
 
-## 🚀 About Me
-- 🔭 I'm passionate about **building scalable software products**.
-- 🌱 I've been deep in the world of **low-latency, highly scalable software**.
+### 🚀 About Me
+- 🔭 I'm passionate about **building scalable software products** with customer-focus.
+- 🌱 I have designed, developed, tested, and delivered **low-latency, highly scalable software** software products.
 - 💡 During my Master's, I've been keen on T-shaping my skillset, exploring new tech and diving deeper into what I already know.
 
-## 🎯 I'm looking for...
+### 🎯 I'm looking for...
 
-**Software Engineering** positions starting **May 2024**. 
+**Software Engineering** positions starting **May 2024**. I'm also open to **Spring 2024** software internship/co-op positions. Feel free to shoot opportunities my way!
+I enjoy working in a collaborative, creative, and challenging environment. 
 
-Also, I'm open for **Spring 2024** internship/co-op positions. Feel free to shoot opportunities my way!
-
-## 📫 Reach Out!
+### 📫 Reach Out!
 
 Eager to chat or collaborate? Shoot me an email at [jayesh.kumar@nyu.edu](mailto:jayesh.kumar@nyu.edu).
 
